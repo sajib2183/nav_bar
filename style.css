@@ -1,0 +1,8 @@
+body{
+    background-image: url("img/slide1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.pic{
+    background-color: transparent;
+}
